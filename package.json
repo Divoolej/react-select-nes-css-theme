@@ -1,0 +1,14 @@
+{
+  "name": "react-select-nes-css-theme",
+  "version": "1.0.0",
+  "description": "A React-Select theme created to match NES.css styles",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/Divoolej/react-select-nes-css-theme",
+    "type": "git"
+  },
+  "author": "Wojciech Olejnik <divoolej@gmail.com>",
+  "license": "MIT",
+  "keywords": ["css", "nes.css", "react-select", "theme", "retro", "nes"],
+  "bugs": "https://github.com/Divoolej/react-select-nes-css-theme/issues"
+}
